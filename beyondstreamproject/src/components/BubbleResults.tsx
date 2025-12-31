@@ -563,7 +563,6 @@ export function BubbleResults({ onBack }: { onBack?: () => void }) {
                 cursor: 'pointer',
                 background: 'none',
                 border: 'none',
-                borderBottom: '1px solid var(--brand-text-secondary)',
                 padding: '0 0 2px 0',
               }}
             >
